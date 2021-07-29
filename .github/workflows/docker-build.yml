@@ -44,4 +44,5 @@ jobs:
           file: ./Dockerfile
           platforms: linux/amd64
           push: true
-          tags: nyeve/python-helloworld:latest
+          tags: nyeve/python-helloworld:v1.0.0
+          
